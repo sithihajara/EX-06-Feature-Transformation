@@ -223,8 +223,9 @@ df
 <img width="443" alt="darace2" src="https://user-images.githubusercontent.com/93427278/168630996-e779dede-1934-4d8c-9202-ef6cfc76f03f.png">
 
 ## FUNCTION TRANSFORMATION:
+<img width="512" alt="2 1" src="https://user-images.githubusercontent.com/94219582/168636279-782bf591-d99a-4adc-8cc9-94fffab87981.png">
+<img width="512" alt="2 2" src="https://user-images.githubusercontent.com/94219582/168636302-f6c3f47e-43e3-4baf-ad85-3514b4f37068.png">
 
-<img width="512" alt="fun1" src="https://user-images.githubusercontent.com/93427278/168631098-e404ec03-c275-4de0-bba6-6724b568693d.png">
 <img width="407" alt="fun2" src="https://user-images.githubusercontent.com/93427278/168631115-07d8b0a5-1c61-4ee4-87e4-050ce10fd8c0.png">
 
 ## POWER TRANSFORMATION:
@@ -243,7 +244,9 @@ df
 
 # Final result
 
-<img width="615" alt="fnrace1" src="https://user-images.githubusercontent.com/93427278/168631853-4fb52139-89eb-4a8b-b107-a64e85caa4b7.png">
+<img width="451" alt="1 1" src="https://user-images.githubusercontent.com/94219582/168636209-76e4a7e7-70e5-49cc-a434-0d9c908b0545.png">
+<img width="615" alt="1 2" src="https://user-images.githubusercontent.com/94219582/168636225-0882b886-e062-4760-b019-18844993bc6d.png">
+
 
 <img width="613" alt="fnrace2" src="https://user-images.githubusercontent.com/93427278/168631861-a7458a7b-b748-4323-8ff8-fe2df0f52167.png">
 
